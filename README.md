@@ -1,9 +1,6 @@
 ### Hi Meu nome é Aparecida!! 👋
 
-<!--
-**cidaci2000/cidaci2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Pofessora de Pensamento Computacional
 - 🌱 I’m currently learning PROGRAMAÇÃO
