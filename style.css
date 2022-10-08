@@ -16,7 +16,7 @@ body {
 }
 
 @font-face {
-    font-family: 'montserrat';
+    font-family: 'montserrat1';
     src: url('Montserrat-Light.otf') format('opentype');
 }
 
@@ -30,7 +30,7 @@ body {
 
 .p {
     color: rgb(180, 180, 180);
-    font-family: 'montserrat';
+    font-family: 'montserrat1';
     src: url('Montserrat-Light.otf') format('opentype');
     font-size: 10px;
     text-align: center;
@@ -46,4 +46,8 @@ body {
     display: flex;
     margin-top: 20px;
     gap: 40px;
+}
+footer{
+    font-family: 'montserrat1';
+    font-size: 22px;
 }
