@@ -1,5 +1,5 @@
 Aparecida!! 👋
-
+![texto-alternativo]()
 
 Professora de Informática e Pensamento Computacional
 
