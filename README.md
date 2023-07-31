@@ -1,5 +1,5 @@
 Aparecida!! 👋
-![texto-alternativo]()
+![texto-alternativo](https://github.com/cidaci2000/cidaci2000/blob/main/octocat-1690837263300.png)
 
 Professora de Informática e Pensamento Computacional
 
