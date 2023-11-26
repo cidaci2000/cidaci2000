@@ -1,5 +1,6 @@
 
-![texto-alternativo]()
+“Sempre teremos Ciência, Tecnologia, Engenharia e Matemática conosco. Algumas coisas sairão dos olhos do público e irão embora, mas sempre haverá ciência, engenharia e tecnologia. E sempre, sempre haverá matemática.”
+Katherine Johnson, matemática, física e cientista espacial da NASA.
 
 Professora de Informática e Pensamento Computacional
 
